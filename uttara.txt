@@ -1,0 +1,151 @@
+
+Intro to Java 1
+https://www.youtube.com/watch?v=gm9Oe5MRUR8
+https://www.youtube.com/watch?v=-GTr2IEYvMU
+
+Intro to Java 2
+https://www.youtube.com/watch?v=WumgO5fJmsM
+https://www.youtube.com/watch?v=3Hl1fBc4vYM
+
+Intro to OO
+https://www.youtube.com/watch?v=XhtQ6nXcD0o
+https://www.youtube.com/watch?v=4Plk5vljnTA
+https://www.youtube.com/watch?v=UBcbXgTRi-E
+https://www.youtube.com/watch?v=fh2ubuSB9Dg
+
+HelloWorld 1
+https://www.youtube.com/watch?v=ej_4d4dUDiE
+https://www.youtube.com/watch?v=NPMlOdp5HFg
+https://www.youtube.com/watch?v=vInyDglV6WY
+
+HelloWorld 2
+https://www.youtube.com/watch?v=hheBITIzcUA
+https://www.youtube.com/watch?v=Ldo9Vy_yDtk
+
+done
+
+Variables 1
+https://www.youtube.com/watch?v=F08IwYJPLhY
+https://www.youtube.com/watch?v=X_CrV3P_u_M
+https://www.youtube.com/watch?v=fiuqYe-uv_4
+
+Operators 1
+https://www.youtube.com/watch?v=tCjWPve8LgI
+https://www.youtube.com/watch?v=6z7rMWMOies
+
+2`s compli
+https://www.youtube.com/watch?v=VZK3e_5yYEE
+https://www.youtube.com/watch?v=op0ATQ9EkWE
+
+Operators 2
+https://www.youtube.com/watch?v=SYwQB0xGtbE
+https://www.youtube.com/watch?v=t9gpFSZBxyU
+
+Control Statements
+https://www.youtube.com/watch?v=XlSU9lwaPLk
+https://www.youtube.com/watch?v=c9jgTAi6m6I
+https://www.youtube.com/watch?v=V4_VkckmjL8
+
+1) Start going through Arrays & Strings discussion videos (take your time till next Saturday, not the coming one, to complete this) and make a list of your queries and we can discuss in class.
+
+a) Arrays:
+Arrays Class 1 Part 1 https://www.youtube.com/watch?v=6JtREZhNULo
+Arrays Class 1 Part 2 https://www.youtube.com/watch?v=P55KEh3-RCs
+b) Strings:
+String Class 1 Part 1 https://www.youtube.com/watch?v=fnx8kvBdqlI
+String Class 1 Part 2 https://www.youtube.com/watch?v=t0T7xPPqMoQ
+String Class 2 Part 1 https://www.youtube.com/watch?v=_-ASAzfFDbs
+String Class 2 Part 2 https://www.youtube.com/watch?v=SiA87qwFwdg
+String Class 3 Part 1 https://www.youtube.com/watch?v=wzOAAtIy9G4
+String Class 3 Part 2 https://www.youtube.com/watch?v=I0-6GvA8-7Y
+
+For those of you who want to recap the classloading / initializers concept (if you understood this in class, you do not need to go through these), please go through the below:
+1) Static-Init - 1 https://www.youtube.com/watch?v=xIbf_kw-NrA
+2) Static-Init - 2 https://www.youtube.com/watch?v=XDJl2f8pOGM
+
+For all - please go through the next topic of inheritance that addresses the recap of inheritance & basics of polymorphism (this is important).
+
+1) Inheritance class 2 - 1 (1h 43m)  https://www.youtube.com/watch?v=Tp6DgXfwxok
+2) Inheritance class 2 - 2 (50m) https://www.youtube.com/watch?v=k5xnpf6rhMs
+3) Inheritance class 3 - 1 (1h 16m) https://www.youtube.com/watch?v=HNZNAx5gdTM
+4)Inheritance class 4-https://www.youtube.com/watch?v=ApaTmKOZVwM
+5)Inheritance class 5-https://www.youtube.com/watch?v=qoPnq0fPz3A
+6)Inheritance class 6-https://www.youtube.com/watch?v=hb24szxe8YY
+
+EXCEPTIONS
+1)https://www.youtube.com/watch?v=5IwjfM2eCVI
+2)https://www.youtube.com/watch?v=Fs-Jhkemm0M
+3)https://www.youtube.com/watch?v=1puF8tnB0Os
+4)https://www.youtube.com/watch?v=93VqNa9AxK4
+5)https://www.youtube.com/watch?v=ZiA-9gE1-cU
+6)https://www.youtube.com/watch?v=Mdc4dPQ4IeA
+7)https://www.youtube.com/watch?v=5GRuI7UYAwM
+8)https://www.youtube.com/watch?v=5_a4V7KRgAI
+9)https://www.youtube.com/watch?v=M2fotn9wq50
+
+INTERFACES
+1)https://www.youtube.com/watch?v=mQbQDaEpV9Q
+2)https://www.youtube.com/watch?v=EkGFcWftOlY
+
+COLLECTIONS
+1)https://youtu.be/fBIWAygCuN0?t=4197
+2)https://youtu.be/3Py3ZOTOMpE?t=4896
+3)https://www.youtube.com/watch?v=--X-tuox1uE
+4)https://www.youtube.com/watch?v=1G5l2YtgU3Y
+5)https://www.youtube.com/watch?v=ETlR7dsDPQI
+6)https://www.youtube.com/watch?v=BtbDIMSa6Bw
+
+THREADS
+1)https://www.youtube.com/watch?v=h9ccMGxnllU
+2)https://www.youtube.com/watch?v=WZiinQIUUIw
+3)https://www.youtube.com/watch?v=lBrDjIWimi4
+4)https://www.youtube.com/watch?v=_txAyjhLGFA
+5)https://www.youtube.com/watch?v=uptFehDf4GI
+6)https://www.youtube.com/watch?v=ou0p0RGnYsQ
+
+IO&MVC
+1)https://www.youtube.com/watch?v=sYjHCo8QiJY
+2)https://www.youtube.com/watch?v=DNHVdqhkliw
+3)https://www.youtube.com/watch?v=6qy3nxIF05o
+4)https://www.youtube.com/watch?v=B3VvzBCZn0A
+
+BASICS OF INTERNET
+1)https://www.youtube.com/watch?v=li73fywL0sg
+2)https://www.youtube.com/watch?v=3Su_BLExZNo
+3)https://www.youtube.com/watch?v=VPOUp5mn6Yw
+4)https://www.youtube.com/watch?v=TiLAIPmaUKA
+
+HTML DEMO
+1)https://www.youtube.com/watch?v=PU5jKja3auo
+
+
+SPRING
+1)https://www.youtube.com/watch?v=khGujHAQ6nY
+2)https://www.youtube.com/watch?v=4jWc3hgZ1cA
+3)https://www.youtube.com/watch?v=VN4A9hJcokA
+
+SPRING MVC
+1)https://www.youtube.com/watch?v=-ZpRLf9gTOU&feature=youtu.be
+2)https://www.youtube.com/watch?v=BmQQdO1_EBw
+3)https://www.youtube.com/watch?v=2FuYhVGHGSM
+4)https://www.youtube.com/watch?v=_BZxadLpy9w
+5)https://www.youtube.com/watch?v=CQ_yqiCZpTU
+6)https://www.youtube.com/watch?v=-vBEsZmAgrM
+
+HIBERNET
+1)https://www.youtube.com/watch?v=cKjv66hQ-8w&feature=youtu.be
+2)https://www.youtube.com/watch?v=6Ev3plyZfLM&feature=youtu.be
+3)https://www.youtube.com/watch?v=yZe8ZZ1O8kQ&feature=youtu.be
+4)https://www.youtube.com/watch?v=vN0zwjy5N_4&feature=youtu.be 
+5)https://www.youtube.com/watch?v=CYlUQ0HxUBk&feature=youtu.be
+6)https://www.youtube.com/watch?v=EbJ-RRZ9ZY0&feature=youtu.be
+7)https://www.youtube.com/watch?v=HXmWUSDFscg&feature=youtu.be
+8)https://www.youtube.com/watch?v=mnSXKemDU0Y&feature=youtu.be
+9)https://www.youtube.com/watch?v=HXmWUSDFscg&feature=youtu.be
+10)https://www.youtube.com/watch?v=W8QvcMQWfiE&feature=youtu.be
+
+
+
+
+
+
